@@ -1,0 +1,9 @@
+{
+	"info": {
+		"name": "DummyAPI",
+		"_postman_id": "demo-id",
+		"description": "A dummy collection for REST API testing.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": []
+}

@@ -1,0 +1,3 @@
+Test Case ID,API Endpoint,Method,Test Scenario,Expected Result,Status
+TC01,/users,GET,Fetch all users,200 OK,Pass
+TC02,/users,POST,Create user with valid data,201 Created,Pass
